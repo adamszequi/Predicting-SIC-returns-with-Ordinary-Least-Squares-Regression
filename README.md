@@ -1,0 +1,1 @@
+# Predicting-SIC-returns-with-Ordinary-Least-Squares-Regression
